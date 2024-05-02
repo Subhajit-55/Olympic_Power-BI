@@ -1,4 +1,4 @@
-# Sales Analysis Report - Power-BI
+# 120 Years Of Olympic Data Analysis
 
 ## 📌Situation
 Analyze the Olympic history data to find the trends and patterns of winning and medal count.
